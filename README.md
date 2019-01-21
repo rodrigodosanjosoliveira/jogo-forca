@@ -1,14 +1,10 @@
 # forca
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Simulador de jogo da forca com abordagem de programação funcional.
 
 ## Usage
 
-FIXME: explanation
+Após clonar o projeto e com a JVM instalada, a partir do diretório... digite o comando abaixo
 
     $ java -jar forca-0.1.0-standalone.jar [args]
 
@@ -16,21 +12,13 @@ FIXME: explanation
 
 FIXME: listing of options this app accepts.
 
-## Examples
-
-...
-
-### Bugs
-
-...
-
 ### Any Other Sections
 ### That You Think
 ### Might be Useful
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Rodrigo Oliveira
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
