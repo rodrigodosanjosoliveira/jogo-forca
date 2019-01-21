@@ -6,15 +6,7 @@ Simulador de jogo da forca com abordagem de programação funcional.
 
 Após clonar o projeto e com a JVM instalada, a partir do diretório... digite o comando abaixo
 
-    $ java -jar forca-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ java -jar forca-0.1.0-standalone.jar
 
 ## License
 
